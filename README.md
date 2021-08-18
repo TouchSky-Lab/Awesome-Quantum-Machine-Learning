@@ -9,10 +9,13 @@
 - A Tutorial on Quantum Convolutional Neural Networks (QCNN)  
 - A fully open-source framework for deep learning protein real-valued distances  
 
-
-
 # 量子机器学习库
 - TensorFlow Quantum（TFQ） 
 - Microsoft QuantumML(Q#) 
--  Qmlcode QML  
+- Qmlcode QML  
 - XanaduAI PennyLane  
+
+
+# Reference
+- https://github.com/krishnakumarsekar/awesome-quantum-machine-learning#quantumhottopics-imageprocessing
+- https://github.com/artix41/awesome-quantum-ml
