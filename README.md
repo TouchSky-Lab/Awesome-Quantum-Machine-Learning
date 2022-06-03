@@ -1,6 +1,6 @@
 
 # Reviews
-
+- A non-review of Quantum Machine Learning: trends and explorations (2020)
 
 # Quantum Convolution Neural Network  
 - Quantum Convolutional Neural Networks  
@@ -12,6 +12,14 @@
 
 
 # Low-bit Problem
+
+
+
+# Variational circuits
+
+
+
+# 
 
 
 
